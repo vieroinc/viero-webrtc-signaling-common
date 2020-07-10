@@ -1,6 +1,6 @@
 {
   "name": "@viero/webrtc-signaling-common",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Common code used by @vieroinc WebRTC signaling libraries.",
   "homepage": "https://github.com/vieroinc/viero-webrtc-signaling-common",
   "contributors": [

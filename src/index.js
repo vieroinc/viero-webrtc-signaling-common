@@ -21,9 +21,3 @@ VieroWebRTCSignalingCommon.SIGNAL = {
   MESSAGE: 'VieroWebRTCSignalingCommonSignalMessage',
   LEAVE: 'VieroWebRTCSignalingCommonSignalLeave',
 };
-
-VieroWebRTCSignalingCommon.WORD = {
-  HELLO: 'VieroWebRTCSignalingCommonSignalHELLO',
-  SDP: 'VieroWebRTCSignalingCommonSignalSDP',
-  CDT: 'VieroWebRTCSignalingCommonWordCDT',
-};
